@@ -1,1 +1,13 @@
-
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "javdb.com",
+        "jdbstatic.com",
+        "abema.tv",
+        "hanime1.me"
+      ]
+    }
+  ]
+}
