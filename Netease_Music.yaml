@@ -5,6 +5,12 @@ payload:
   - DOMAIN-SUFFIX,hz.netease.com
   - DOMAIN-SUFFIX,mam.netease.com
   - DOMAIN-SUFFIX,music.163.com
+  - DOMAIN-SUFFIX,interface.music.163.com
+  - DOMAIN-SUFFIX,interface3.music.163.com
+  - DOMAIN-SUFFIX,apm.music.163.com
+  - DOMAIN-SUFFIX,apm3.music.163.com
+  - DOMAIN-SUFFIX,interface.music.163.com.163jiasu.com
+  - DOMAIN-SUFFIX,interface3.music.163.com.163jiasu.com
   - IP-CIDR,101.71.154.241/32,no-resolve
   - IP-CIDR,103.126.92.132/32,no-resolve
   - IP-CIDR,103.126.92.133/32,no-resolve
